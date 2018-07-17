@@ -2,6 +2,6 @@
 void main()
 {
 int i=5;
-printf("%d",i);f
+printf("%d",i);
 }
 
