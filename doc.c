@@ -3,5 +3,6 @@ void main()
 {
 int i=5;
 printf("%d",i);
+printf(" this is a update");
 }
 
