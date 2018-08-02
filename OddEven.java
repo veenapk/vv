@@ -2,7 +2,7 @@ class OddEven
 {
 	public static void main(String[] args)
 	{
-	int i;
+	int i=0;
 	for (i=30;i<=40;i++)
 	{
 	 	if(i%2==0)
