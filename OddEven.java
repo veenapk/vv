@@ -1,5 +1,9 @@
 class OddEven
 {
+	public void hello()
+	{
+	}
+
 	public static void main(String[] args)
 	{
 	int i=0;
