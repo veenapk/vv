@@ -3,7 +3,7 @@ class OddEven
 	public static void main(String[] args)
 	{
 	int i=0;
-		System.out.println("Easkagagy "+i);
+	System.out.println("hello");
 	for (i=30;i<=40;i++)
 	{
 	 	if(i%2==0)
