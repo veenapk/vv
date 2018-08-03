@@ -2,11 +2,9 @@ class OddEven
 {
 	public void hello()
 	{
-<<<<<<< HEAD
-System.out.println();
-=======
+
 	   System.out.println("hello git try");
->>>>>>> 7dd4e089f455d516c4322885f873f34be278dae8
+		>>>> 7dd4e089f455d516c4322885f873f34be278dae8
 	}
 
 	public static void main(String[] args)
