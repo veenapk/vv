@@ -3,8 +3,8 @@ class OddEven
 	public void hello()
 	{
 
-	   System.out.println("hello git try");
-		>>>> 7dd4e089f455d516c4322885f873f34be278dae8
+	   System.out.println("hello ");
+		
 	}
 
 	public static void main(String[] args)
@@ -24,4 +24,4 @@ class OddEven
 	}
 	}
 }
-zsvxzvzxvzxv
+
