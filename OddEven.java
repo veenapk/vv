@@ -3,7 +3,8 @@ class OddEven
 	public void hello()
 	{
 
-	   System.out.println("hello,szschiusacl;AIxpoA9TAUI ");
+	   System.out.println("hello for jenkins");
+	 
 		
 	}
 
