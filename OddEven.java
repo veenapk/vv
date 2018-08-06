@@ -5,7 +5,7 @@ class OddEven
 
 	   System.out.println("hello for jenkins");
 	 
-		vcbxbxbdfgregsasdsdsadasdsafasdwf
+		
 	}
 
 	public static void main(String[] args)
@@ -26,4 +26,4 @@ class OddEven
 	}
 }
 
-sgadgaga
+
