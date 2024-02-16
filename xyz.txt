@@ -1,1 +1,1 @@
-hello this is SPA lecture
+hello this is SPA lecture. thid is offline lecture
